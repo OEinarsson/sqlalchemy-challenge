@@ -1,6 +1,4 @@
 # Import the dependencies.
-
-import numpy as np
 import datetime as dt
 
 import sqlalchemy
